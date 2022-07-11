@@ -12,4 +12,26 @@ Esse conjunto de dados contém o valor de venda de casas entre maio de 2014 e ma
 ## Apresentação dos Dados
 Nesta seção iremos observar de forma geral os dados presentes no dataset. Assim, teremos uma noção maior dos dados que possuímos e como eles nos são apresentados.
 ## Limpeza dos Dados
-Aqui realizaremos a limpeza dos dados, verificando a presença de dados missings, correções de datas, 
+Aqui realizaremos a limpeza dos dados, verificando a presença de dados missings, correções e eliminações de dados.
+## Análise Exploratória dos Dados
+Este tópico contém a análise exploratória do comportamento dos nossos dados e das relações entre as variáveis.
+## Insights
+Após entender como a variável alvo se comporta em conjunto com outras variáveis podemos agora partir para a geração de alguns insights que serão importantes para qualquer tomada de decisão.
+## Sugestões
+Algumas sugestões de como podemos proceder com este estudo e evoluí-lo.
+## Conclusão
+Uma breve conclusão sobre o presente estudo.
+## Referências
+Meigarom. Os 5 Projetos de Data Science Que Fará o Recrutador Olhar para Você!. Medium, 2020. Disponível em: https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9. Acesso em: 16 de fevereiro de 2022.
+
+PEREZ, José. What Does 2.5 Bathrooms Mean?. HouseNotebook, 2021. Disponível em: https://housenotebook.com/what-does-2-5-bathrooms-mean/. Acesso em: 22 de fevereiro de 2022.
+
+UNITE STATES ZIP CODES. UniteStatesZipCodes.org. Disponível em: https://www.unitedstateszipcodes.org/wa/. Acesso em: 20 de fevereiro de 2022.
+# Técnicas e Tecnologias Utilizadas
+ - Python
+ - Jupyter Notebook
+ - Análise de dados
+ - Regressão Linear
+ - Machine Learning
+# Autor
+Jorge Luiz Chumbo
